@@ -1,7 +1,7 @@
 # 👩‍💻 Sobre mim  
 
 Olá! Sou a **Debora**, estou em transição de carreira da **Química** para a área de **Tecnologia da Informação**.  
-Atualmente, curso **Sistemas da Informação** e busco aprimorar minhas habilidades em programação, análise e modelagem de dados.  
+Atualmente, curso **Análise e desenvolvimento de Sistemas** e busco aprimorar minhas habilidades em programação, análise e modelagem de dados.  
 
 ---
 

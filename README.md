@@ -16,7 +16,7 @@ Atualmente, curso **Sistemas da Informação** e busco aprimorar minhas habilida
 ## 🛠️ Habilidades  
 - **Front-end:** HTML, CSS  
 - **Análise de dados:** Power BI, modelagem de dados  
-- **Linguagens:** Python (básico)  
+- **Linguagens:** Python e Java (básico)  
 - **Outros:** Fundamentos em lógica de programação e resolução de problemas  
 
 ---

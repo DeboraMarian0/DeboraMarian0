@@ -1,14 +1,14 @@
 # 👩‍💻 Sobre mim  
 
 Olá! Sou a **Debora**, estou em transição de carreira da **Química** para a área de **Tecnologia da Informação**.  
-Atualmente, curso **Análise e desenvolvimento de Sistemas** e busco aprimorar minhas habilidades em programação, análise e modelagem de dados.  
+Atualmente, curso **Análise e desenvolvimento de Sistemas** e busco aprimorar minhas habilidades em programação e análise e modelagem de dados.  
 
 ---
 
 ## 🚀 Experiência  
 - 📍 **Estagiária na Águas de Joinville**  
    - Atuação com **tratamento e modelagem de dados**  
-   - Desenvolvimento de relatórios e dashboards em **Power BI**  
+   - Desenvolvimento de relatórios e dashboards no **Power BI**  
    - Conhecimento em **DAX básico**  
 
 ---
@@ -22,7 +22,6 @@ Atualmente, curso **Análise e desenvolvimento de Sistemas** e busco aprimorar m
 ---
 
 ## 🎯 Objetivo  
-Seguir desenvolvendo minhas habilidades em programação e análise de dados,  
-integrando minha experiência anterior em Química com soluções tecnológicas  
+Seguir desenvolvendo minhas habilidades em programação, integrando minha experiência anterior em Química com soluções tecnológicas 
 para gerar valor e inovação.  
 

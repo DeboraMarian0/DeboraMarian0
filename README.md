@@ -6,7 +6,7 @@ Atualmente, curso o terceiro semestre do tecnólogo em **Análise e desenvolvime
 ---
 
 ## 🚀 Experiência  
-- **Estagiária na Águas de Joinville**  
+- **Estagiária na Companhia Águas de Joinville**  
    - Atuação com **tratamento e modelagem de dados**  
    - Desenvolvimento de relatórios e dashboards no **Power BI**  
    - Conhecimento em **DAX básico**  

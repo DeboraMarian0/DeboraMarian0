@@ -16,7 +16,7 @@ Atualmente, curso o terceiro semestre do tecnólogo em **Análise e desenvolvime
 ## 🛠️ Habilidades  
 - **Front-end:** HTML, CSS  
 - **Análise de dados:** Power BI, modelagem de dados  
-- **Linguagens:** Python (básico), Java (básico) e JavaScript (em aprendizado)
+- **Linguagens:** Python (básico), Java (POO - básico) e JavaScript (em aprendizado)
 - **Outros:** Fundamentos em lógica de programação e resolução de problemas  
 
 ---

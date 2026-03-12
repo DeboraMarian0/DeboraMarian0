@@ -7,16 +7,16 @@ Atualmente, curso o terceiro semestre do tecnólogo em **Análise e desenvolvime
 
 ## 🚀 Experiência  
 - **Estagiária na Companhia Águas de Joinville**  
-   - Atuação com **tratamento e modelagem de dados**  
-   - Desenvolvimento de relatórios e dashboards no **Power BI**  
-   - Conhecimento em **DAX básico**  
+   - Atuação com tratamento e modelagem de dados
+   - Desenvolvimento de relatórios e dashboards no Power BI 
+   - Conhecimento em DAX básico 
 
 ---
 
 ## 🛠️ Habilidades  
 - **Front-end:** HTML, CSS  
 - **Análise de dados:** Power BI, modelagem de dados  
-- **Linguagens:** Python e Java (básico)  
+- **Linguagens:** Python (básico), Java (básico) e JavaScript (em aprendizado)
 - **Outros:** Fundamentos em lógica de programação e resolução de problemas  
 
 ---

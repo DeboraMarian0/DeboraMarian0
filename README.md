@@ -17,6 +17,7 @@ Atualmente, curso o terceiro semestre do tecnólogo em **Análise e desenvolvime
 - **Front-end:** HTML, CSS  
 - **Análise de dados:** Power BI, modelagem de dados  
 - **Linguagens:** Python (básico), Java (POO - básico) e JavaScript (em aprendizado)
+- **Banco de dados:** SQL (básico – consultas, filtros, JOINs) 
 - **Outros:** Fundamentos em lógica de programação e resolução de problemas  
 
 ---

@@ -19,9 +19,9 @@ Atualmente, curso o quarto semestre do tecnólogo em **Análise e desenvolviment
 [Repositório do Código](https://github.com/DeboraMarian0/Psychologist_React_project) | [Site Ao Vivo 🟢](https://alinealvespsicologia.com.br)
 
    - Desenvolvimento completo de uma Landing Page responsiva e focada em conversão utilizando React, Vite e Bootstrap 5.
-   - Migração da arquitetura estática (HTML/CSS puro) para componentização moderna em React.
+   - Migração da arquitetura estática (HTML/CSS e JavaScript puro) para componentização moderna em React.
    - Implementação de boas práticas de SEO e metatags Open Graph para otimização em motores de busca e redes sociais.
-   - Configuração de infraestrutura de hospedagem na nuvem e deploy contínuo (CI/CD) integrando GitHub, Netlify e domínio personalizado (Registro.br).
+   - Configuração de infraestrutura de hospedagem na nuvem e deploy contínuo integrando GitHub, Netlify e domínio personalizado (Registro.br).
 
 ---
 

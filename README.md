@@ -7,10 +7,21 @@ Atualmente, curso o quarto semestre do tecnólogo em **Análise e desenvolviment
 ---
 
 ## Experiência  
+
 - **Estagiária na Companhia Águas de Joinville como Analista de dados**  
    - Atuação com tratamento e modelagem de dados com a biblioteca Pandas
    - Desenvolvimento de relatórios e dashboards no Power BI 
    - Conhecimento em DAX
+
+## Projetos Profissionais / Freelance
+
+**Desenvolvedora Front-End (Freelance)** | *Psicóloga Aline Alves* 
+[Repositório do Código](https://github.com/DeboraMarian0/Psychologist_React_project) | [Site Ao Vivo 🟢](https://alinealvespsicologia.com.br)
+
+   - Desenvolvimento completo de uma Landing Page responsiva e focada em conversão utilizando React, Vite e Bootstrap 5.
+   - Migração da arquitetura estática (HTML/CSS puro) para componentização moderna em React.
+   - Implementação de boas práticas de SEO e metatags Open Graph para otimização em motores de busca e redes sociais.
+   - Configuração de infraestrutura de hospedagem na nuvem e deploy contínuo (CI/CD) integrando GitHub, Netlify e domínio personalizado (Registro.br).
 
 ---
 

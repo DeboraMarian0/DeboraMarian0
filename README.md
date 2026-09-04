@@ -15,7 +15,7 @@ Atualmente, curso o quarto semestre do tecnólogo em **Análise e desenvolviment
 
 ## Projetos Profissionais / Freelance
 
-**Desenvolvedora Front-End (Freelance)** | *Psicóloga Aline Alves* 
+- **Desenvolvedora Front-End (Freelance)** | *Psicóloga Aline Alves* 
 [Repositório do Código](https://github.com/DeboraMarian0/Psychologist_React_project) | [Site Ao Vivo 🟢](https://alinealvespsicologia.com.br)
 
    - Desenvolvimento completo de uma Landing Page responsiva e focada em conversão utilizando React, Vite e Bootstrap 5.

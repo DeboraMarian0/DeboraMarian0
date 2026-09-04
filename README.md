@@ -1,7 +1,9 @@
 # 👩‍💻 Sobre mim  
 
 Olá! Sou a **Debora**, estou em transição de carreira da **Química** para a área de **Tecnologia da Informação**.  
+
 Atualmente, curso o quarto semestre do tecnólogo em **Análise e desenvolvimento de Sistemas** e busco aprimorar minhas habilidades em programação.
+
 ---
 
 ## Experiência  
